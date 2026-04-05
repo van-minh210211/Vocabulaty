@@ -1,0 +1,30 @@
+name: crawl
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^1.1.0
+  html: ^0.15.4
+  dio: ^5.9.2
+  bloc: ^9.2.0
+  equatable: ^2.0.8
+  flutter_bloc: ^9.1.1
+  just_audio: ^0.10.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - data/json_new/

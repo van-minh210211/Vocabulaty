@@ -1,0 +1,82 @@
+[
+    {
+        "word": "a",
+        "pos": "indefinite article",
+        "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/a__/a__gb/a__gb_2.mp3",
+        "phonetic_text": "/ə/",
+        "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/a__/a__us/a__us_2_rr.mp3",
+        "phonetic_am_text": "/ə/",
+        "senses": [
+            {
+                "definition": "used before countable or singular nouns referring to people or things that have not already been mentioned",
+                "examples": [
+                    "a man/horse/unit",
+                    "an aunt/egg/hour/X-ray",
+                    "I can only carry two at a time.",
+                    "There's a visitor for you.",
+                    "She's a friend of my father's (= one of my father's friends)."
+                ]
+            },
+            {
+                "definition": "used to show that somebody/something is a member of a group or profession",
+                "examples": [
+                    "Their new car's a BMW.",
+                    "She's a Buddhist.",
+                    "He's a teacher.",
+                    "Is that a Monet (= a painting by Monet)?"
+                ]
+            },
+            {
+                "definition": "any; every",
+                "examples": [
+                    "A lion is a dangerous animal."
+                ]
+            },
+            {
+                "definition": "used before uncountable nouns when these have an adjective in front of them, or phrase following them",
+                "examples": [
+                    "a good knowledge of French",
+                    "a sadness that won’t go away"
+                ]
+            },
+            {
+                "definition": "used in front of two nouns that are seen as a single unit",
+                "examples": [
+                    "a knife and fork"
+                ]
+            },
+            {
+                "definition": "used instead of one before some numbers",
+                "examples": [
+                    "A thousand people were there."
+                ]
+            },
+            {
+                "definition": "used when talking about prices, quantities and rates",
+                "examples": [
+                    "They cost 50p a kilo.",
+                    "I can type 50 words a minute.",
+                    "He was driving at 50 miles an hour."
+                ]
+            },
+            {
+                "definition": "a person like somebody",
+                "examples": [
+                    "She's a little Greta Thunberg."
+                ]
+            },
+            {
+                "definition": "used before somebody’s name to show that the speaker does not know the person",
+                "examples": [
+                    "There's a Mrs Green to see you."
+                ]
+            },
+            {
+                "definition": "used before the names of days of the week to talk about one particular day",
+                "examples": [
+                    "She died on a Tuesday."
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "word": "yard",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/yar/yard_/yard__gb_1.mp3",
+    "phonetic_text": "/jɑːd/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/yar/yard_/yard__us_1.mp3",
+    "phonetic_am_text": "/jɑːrd/",
+    "senses": [
+      {
+        "definition": "a piece of land next to or around your house where you can grow flowers, fruit, vegetables, etc., usually with a lawn (= an area of grass)",
+        "examples": [
+          "They have a gorgeous old oak tree in their front yard.",
+          "My next-door neighbor was watering her yard."
+        ]
+      },
+      {
+        "definition": "an area outside a building, usually with a hard surface and a surrounding wall",
+        "examples": [
+          "The prisoners were made to line up in the prison yard.",
+          "The children were playing in the yard at the front of the school."
+        ]
+      },
+      {
+        "definition": "an area of land used for a special purpose or business",
+        "examples": [
+          "a boat yard"
+        ]
+      },
+      {
+        "definition": "a unit for measuring length, equal to 3 feet (36 inches) or 0.9144 of a metre",
+        "examples": [
+          "They still live within yards of each other.",
+          "a beautiful white dress with yards and yards of fabric",
+          "The accident happened less than 50 yards from his home."
+        ]
+      },
+      {
+        "definition": "a long piece of wood fastened to a mast that supports a sail on a boat or ship",
+        "examples": []
+      },
+      {
+        "definition": "used to say that if you allow some people a small amount of freedom or power they will see you as weak and try to take a lot more",
+        "examples": []
+      },
+      {
+        "definition": "everything, or a situation which includes everything",
+        "examples": [
+          "When Dan cooks dinner he always goes the whole nine yards, with three courses and a choice of dessert."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "yeah",
+    "pos": "exclamation",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/yea/yeah_/yeah__gb_1.mp3",
+    "phonetic_text": "/jeə/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/yea/yeah_/yeah__us_1.mp3",
+    "phonetic_am_text": "/jeə/",
+    "senses": [
+      {
+        "definition": "yes",
+        "examples": []
+      },
+      {
+        "definition": "used when you are commenting on what somebody has just said",
+        "examples": [
+          "‘We're off to France soon.’ ‘Oh yeah? When's that?’",
+          "‘I'm going to be rich one day.’ ‘Oh yeah?’ (= I don't believe you.)"
+        ]
+      },
+      {
+        "definition": "used to say that you do not believe what somebody has just said, disagree with it, or are not interested in it",
+        "examples": [
+          "‘You'll be fine.’ ‘Yeah, right.’"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "year",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/yea/year_/year__gb_1.mp3",
+    "phonetic_text": "/jɪə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/yea/year_/year__us_1.mp3",
+    "phonetic_am_text": "/jɪr/",
+    "senses": [
+      {
+        "definition": "the period from 1 January to 31 December, that is 365 or 366 days, divided into 12 months",
+        "examples": [
+          "Elections take place every year.",
+          "I lost my job earlier this year.",
+          "next/last year",
+          "She died the following year.",
+          "Three million tourists visit Yellowstone every year.",
+          "She was born in the year 1865.",
+          "The crowd was much smaller than in previous years.",
+          "In the past few years, she has become one of our top-selling authors.",
+          "The museum is open all year round (= during the whole year)."
+        ]
+      },
+      {
+        "definition": "a period of twelve months, measured from any particular time",
+        "examples": [
+          "It's exactly a year since I started working here.",
+          "She gave up teaching three years ago.",
+          "They got married two years later.",
+          "The autobiography could only be published 100 years after his death.",
+          "I hope to retire in two years' time.",
+          "Where do you think you will be five years from now?",
+          "Seeds can live in the soil for many years.",
+          "in the first year of their marriage",
+          "Production has declined in recent years.",
+          "His early years were spent in San Francisco.",
+          "We have high hopes for the coming year (= the next twelve months).",
+          "the pre-war/war/post-war years (= the period before/during/after the war)",
+          "I have happy memories of my years in Poland (= the time I spent there)."
+        ]
+      },
+      {
+        "definition": "age; time of life",
+        "examples": [
+          "He was 14 years old when it happened.",
+          "She looks young for her years.",
+          "They were both only 20 years of age.",
+          "a twenty-year-old man",
+          "He died in his sixtieth year.",
+          "She's getting on in years (= is no longer young)."
+        ]
+      },
+      {
+        "definition": "a period of twelve months connected with a particular activity",
+        "examples": [
+          "the tax/fiscal year",
+          "the school year"
+        ]
+      },
+      {
+        "definition": "a level that you stay in for one year; a student at a particular level",
+        "examples": [
+          "We started German in year seven.",
+          "She was in my year at school.",
+          "The project is the work of a group of year-seven pupils.",
+          "The first years do French."
+        ]
+      },
+      {
+        "definition": "a long time",
+        "examples": [
+          "It's years since we last met.",
+          "They haven't seen each other for years and years.",
+          "That's the best movie I've seen in years.",
+          "It's the first time we've met in years.",
+          "We've had a lot of fun over the years."
+        ]
+      },
+      {
+        "definition": "at some time in the future",
+        "examples": [
+          "There are certain to be more job losses further down the road.",
+          "Will this movie still be funny a few years down the road?"
+        ]
+      },
+      {
+        "definition": "the last years of somebody’s life",
+        "examples": []
+      },
+      {
+        "definition": "a very long time",
+        "examples": [
+          "We've known each other for donkey's years.",
+          "I met him once, but that was donkey’s years ago.",
+          "This technology has been around for donkey's."
+        ]
+      },
+      {
+        "definition": "a person or thing that people decide is the best in a particular field in a particular year",
+        "examples": [
+          "He was chosen as TV personality of the year."
+        ]
+      },
+      {
+        "definition": "used to emphasize that you will/would never do something",
+        "examples": [
+          "I'd never have thought of that in a million years."
+        ]
+      },
+      {
+        "definition": "used in polite expressions to describe somebody as ‘very old’",
+        "examples": [
+          "He was a man of advanced years.",
+          "Even at my advanced age I still know how to enjoy myself!"
+        ]
+      },
+      {
+        "definition": "to make somebody feel or look older",
+        "examples": [
+          "The illness put years on him.",
+          "His wife's death has put years on him."
+        ]
+      },
+      {
+        "definition": "the desire for new sexual experience that is thought to be felt after seven years of marriage",
+        "examples": []
+      },
+      {
+        "definition": "since a very long time ago",
+        "examples": [
+          "I've been going there every summer since the year dot."
+        ]
+      },
+      {
+        "definition": "to make somebody feel or look younger",
+        "examples": [
+          "That haircut takes years off her.",
+          "Careful make-up and styling can take years off you."
+        ]
+      },
+      {
+        "definition": "the time when a new century/year starts",
+        "examples": [
+          "It was built at the turn of the century.",
+          "The team are unbeaten since the turn of the year."
+        ]
+      },
+      {
+        "definition": "every year for many years",
+        "examples": [
+          "People return year after year."
+        ]
+      },
+      {
+        "definition": "as the years pass; each year",
+        "examples": [
+          "Year by year their affection for each other grew stronger."
+        ]
+      },
+      {
+        "definition": "every year",
+        "examples": []
+      },
+      {
+        "definition": "any particular year after the birth of Christ",
+        "examples": []
+      },
+      {
+        "definition": "each year, compared with the last year",
+        "examples": [
+          "Spending has increased year on year.",
+          "a year-on-year increase in spending"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "yell",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/yel/yell_/yell__gb_1.mp3",
+    "phonetic_text": "/jel/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/yel/yell_/yell__us_1.mp3",
+    "phonetic_am_text": "/jel/",
+    "senses": [
+      {
+        "definition": "to shout loudly, for example because you are angry, excited, frightened or in pain",
+        "examples": [
+          "He yelled at the other driver.",
+          "She yelled at the child to get down from the wall.",
+          "They yelled with excitement.",
+          "She yelled out in pain.",
+          "‘Be careful!’ he yelled.",
+          "The crowd yelled encouragement at the players.",
+          "He yelled out her name.",
+          "He yelled for help."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "yellow",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/yel/yello/yellow__gb_2.mp3",
+    "phonetic_text": "/ˈjeləʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/yel/yello/yellow__us_3.mp3",
+    "phonetic_am_text": "/ˈjeləʊ/",
+    "senses": [
+      {
+        "definition": "having the colour of lemons or butter",
+        "examples": [
+          "pale yellow flowers",
+          "a bright yellow waterproof jacket",
+          "Her teeth were rather yellow.",
+          "She wore a pale yellow dress.",
+          "The leaves turn yellow in November."
+        ]
+      },
+      {
+        "definition": "a very offensive word used to describe the light brown skin of people from some East Asian countries",
+        "examples": []
+      },
+      {
+        "definition": "easily frightened",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "yellow",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/yel/yello/yellow__gb_2.mp3",
+    "phonetic_text": "/ˈjeləʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/yel/yello/yellow__us_3.mp3",
+    "phonetic_am_text": "/ˈjeləʊ/",
+    "senses": [
+      {
+        "definition": "the colour of lemons or butter",
+        "examples": [
+          "She was dressed in yellow.",
+          "the reds and yellows of the trees",
+          "The hall is decorated in pale yellow."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "yes",
+    "pos": "exclamation",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/yes/yes__/yes__gb_2.mp3",
+    "phonetic_text": "/jes/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/yes/yes__/yes__us_2.mp3",
+    "phonetic_am_text": "/jes/",
+    "senses": [
+      {
+        "definition": "used to answer a question and say that something is correct or true",
+        "examples": [
+          "‘Is this your car?’ ‘Yes, it is.’",
+          "‘Are you coming? Yes or no?’"
+        ]
+      },
+      {
+        "definition": "used to show that you agree with what has been said",
+        "examples": [
+          "‘I enjoyed her latest novel.’ ‘Yes, me too.’",
+          "‘It's an excellent hotel.’ ‘Yes, but (= I don't completely agree) it's too expensive.’",
+          "In reply to his question, most of them answered yes."
+        ]
+      },
+      {
+        "definition": "used to disagree with something negative that somebody has just said",
+        "examples": [
+          "‘I've never met her before.’ ‘Yes, you have.’"
+        ]
+      },
+      {
+        "definition": "used to agree to a request or to give permission",
+        "examples": [
+          "‘Dad, can I borrow the car?’ ‘Yes, but be careful.’",
+          "We're hoping that they will say yes to our proposals."
+        ]
+      },
+      {
+        "definition": "used to accept an offer or invitation",
+        "examples": [
+          "‘Would you like a drink?’ ‘Yes, please/thanks.’"
+        ]
+      },
+      {
+        "definition": "used for asking somebody what they want",
+        "examples": [
+          "Yes? How can I help you?"
+        ]
+      },
+      {
+        "definition": "used for replying politely when somebody calls you",
+        "examples": [
+          "‘Waiter!’ ‘Yes, sir?’"
+        ]
+      },
+      {
+        "definition": "used to show that you have just remembered something",
+        "examples": [
+          "Where did I put the keys? Oh yes—in my pocket!"
+        ]
+      },
+      {
+        "definition": "used to encourage somebody to continue speaking",
+        "examples": [
+          "‘I’m going to Paris this weekend.’ ‘Yes…’"
+        ]
+      },
+      {
+        "definition": "used to show that you do not believe what somebody has said",
+        "examples": [
+          "‘Sorry I'm late—the bus didn't come.’ ‘Oh yes?’"
+        ]
+      },
+      {
+        "definition": "used to emphasize what you have just said",
+        "examples": [
+          "Mrs Smith has just won £2 million—yes!—£2 million!"
+        ]
+      },
+      {
+        "definition": "used to show that you are excited or extremely pleased about something that you have done or something that has happened",
+        "examples": [
+          "‘They've scored another goal.’ ‘Yes!!’"
+        ]
+      },
+      {
+        "definition": "used to show that you are impatient or annoyed about something",
+        "examples": [
+          "‘Hurry up—it's late.’ ‘Yes, yes—I'm coming.’"
+        ]
+      },
+      {
+        "definition": "used when you cannot give a clear answer to a question",
+        "examples": [
+          "‘Are you enjoying it?’ ‘Yes and no.’"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "yesterday",
+    "pos": "adverb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/yes/yeste/yesterday__gb_1.mp3",
+    "phonetic_text": "/ˈjestədeɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/yes/yeste/yesterday__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈjestərdeɪ/",
+    "senses": [
+      {
+        "definition": "on the day before today",
+        "examples": [
+          "A company spokeswoman said yesterday that no final decision had been made yet.",
+          "yesterday morning/afternoon/evening",
+          "The company yesterday announced a $40 million deal.",
+          "To think I was lying on a beach only the day before yesterday.",
+          "I can remember our wedding as if it were yesterday.",
+          "They arrived yesterday.",
+          "Where were you yesterday morning?",
+          "Figures released yesterday show 4,944 people were awaiting surgery."
+        ]
+      },
+      {
+        "definition": "used to say that you are not stupid enough to believe what somebody is telling you",
+        "examples": [
+          "Oh yeah? I wasn't born yesterday, you know."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "yesterday",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/yes/yeste/yesterday__gb_1.mp3",
+    "phonetic_text": "/ˈjestədeɪ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/yes/yeste/yesterday__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈjestərdeɪ/",
+    "senses": [
+      {
+        "definition": "the day before today",
+        "examples": [
+          "Yesterday was Sunday.",
+          "What happened at yesterday's meeting?",
+          "The events of yesterday were clearly still troubling her.",
+          "She died in the early hours of yesterday.",
+          "He threatened to resign from the coalition if no agreement was reached by yesterday."
+        ]
+      },
+      {
+        "definition": "the recent past",
+        "examples": [
+          "Yesterday's students are today's employees.",
+          "All her yesterdays had vanished without a trace."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "yet",
+    "pos": "adverb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/yet/yet__/yet__gb_1.mp3",
+    "phonetic_text": "/jet/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/yet/yet__/yet__us_1.mp3",
+    "phonetic_am_text": "/jet/",
+    "senses": [
+      {
+        "definition": "used in negative sentences and questions to talk about something that has not happened but that you expect to happen",
+        "examples": [
+          "I haven't received a letter from him yet.",
+          "I didn't receive a letter from him yet.",
+          "‘Are you ready?’ ‘No, not yet.’",
+          "We don't yet know what really happened.",
+          "We have yet to decide what action to take (= We have not decided what action to take)."
+        ]
+      },
+      {
+        "definition": "now; as soon as this",
+        "examples": [
+          "Don't go yet.",
+          "We don't need to start yet."
+        ]
+      },
+      {
+        "definition": "used to emphasize an increase in number or amount or the number of times something happens",
+        "examples": [
+          "snow, snow and yet more snow",
+          "yet another diet book",
+          "Prices were cut yet again (= once more, after many other times)."
+        ]
+      },
+      {
+        "definition": "used to emphasize that something is the best, longest, etc. thing of its kind made, produced, written, etc. until now/then",
+        "examples": [
+          "the most comprehensive study yet of his music",
+          "It was the tallest building yet constructed anywhere."
+        ]
+      },
+      {
+        "definition": "from now until the period of time mentioned has passed",
+        "examples": [
+          "He'll be busy for ages yet.",
+          "They won't arrive for at least two hours yet."
+        ]
+      },
+      {
+        "definition": "used to say that something could, might, etc. happen in the future, even though it seems unlikely",
+        "examples": [
+          "We may win yet.",
+          "She could yet surprise us all."
+        ]
+      },
+      {
+        "definition": "used to emphasize an increase in the degree of something (= how bad, important, etc. it is)",
+        "examples": [
+          "a recent and yet more improbable theory"
+        ]
+      },
+      {
+        "definition": "until now or until a particular time in the past",
+        "examples": [
+          "an as yet unpublished report",
+          "As yet little was known of the causes of the disease."
+        ]
+      },
+      {
+        "definition": "used to say that while one thing is good, another thing is even better",
+        "examples": [
+          "You can see and, better yet, hear the effects of these changes on their website.",
+          "I wanted to make my parents proud by becoming a lawyer or, better yet, a doctor."
+        ]
+      },
+      {
+        "definition": "not now but probably quite soon",
+        "examples": [
+          "I can't give you the money just yet."
+        ]
+      },
+      {
+        "definition": "used to comment on something that was almost successful but in fact failed",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "yet",
+    "pos": "conjunction",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/yet/yet__/yet__gb_1.mp3",
+    "phonetic_text": "/jet/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/yet/yet__/yet__us_1.mp3",
+    "phonetic_am_text": "/jet/",
+    "senses": [
+      {
+        "definition": "despite what has just been said",
+        "examples": [
+          "It's a small car, yet it's surprisingly spacious.",
+          "He has a good job, and yet he never seems to have any money."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "yield",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/yie/yield/yield__gb_2.mp3",
+    "phonetic_text": "/jiːld/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/yie/yield/yield__us_1.mp3",
+    "phonetic_am_text": "/jiːld/",
+    "senses": [
+      {
+        "definition": "the total amount of crops, profits, etc. that are produced",
+        "examples": [
+          "a high crop yield",
+          "a reduction in milk yield",
+          "This will give a yield of 10% on your investment."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "yield",
+    "pos": "verb",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/yie/yield/yield__gb_2.mp3",
+    "phonetic_text": "/jiːld/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/yie/yield/yield__us_1.mp3",
+    "phonetic_am_text": "/jiːld/",
+    "senses": [
+      {
+        "definition": "to produce or provide something, for example a profit, result or crop",
+        "examples": [
+          "Higher-rate deposit accounts yield good returns.",
+          "The research has yielded useful information.",
+          "These trees no longer yield fruit.",
+          "The project is expected to yield good returns in future."
+        ]
+      },
+      {
+        "definition": "to stop resisting something/somebody; to agree to do something that you do not want to do",
+        "examples": [
+          "After a long siege, the town was forced to yield.",
+          "He reluctantly yielded to their demands.",
+          "I yielded to temptation and had a chocolate bar."
+        ]
+      },
+      {
+        "definition": "to allow somebody to win, have or take control of something that has been yours until now",
+        "examples": [
+          "He refused to yield up his gun.",
+          "The universe is slowly yielding up its secrets.",
+          "archaeological remains which are yielding up secrets from long ago"
+        ]
+      },
+      {
+        "definition": "to move, bend or break because of pressure",
+        "examples": [
+          "Despite our attempts to break it, the lock would not yield."
+        ]
+      },
+      {
+        "definition": "to allow vehicles on a bigger road to go first",
+        "examples": [
+          "Yield to oncoming traffic.",
+          "a yield sign"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "you",
+    "pos": "pronoun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/you/you__/you__gb_1.mp3",
+    "phonetic_text": "/ju/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/you/you__/you__us_1_rr.mp3",
+    "phonetic_am_text": "/jə/",
+    "senses": [
+      {
+        "definition": "used as the subject or object of a verb or after a preposition to refer to the person or people being spoken or written to",
+        "examples": [
+          "You said you knew the way.",
+          "I thought she told you.",
+          "Can I sit next to you?",
+          "I want both of you to help.",
+          "I don't think that hairstyle is you (= it doesn't suit your appearance or personality)."
+        ]
+      },
+      {
+        "definition": "used with nouns and adjectives to speak to somebody directly",
+        "examples": [
+          "You girls, stop talking!",
+          "You stupid idiot!"
+        ]
+      },
+      {
+        "definition": "used for referring to people in general",
+        "examples": [
+          "You learn a language better if you visit the country where it is spoken.",
+          "It's a friendly place—people come up to you in the street and start talking."
+        ]
+      },
+      {
+        "definition": "you, your family and your close friends",
+        "examples": [
+          "I wish you and yours all the best for the year ahead!"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "young",
+    "pos": "adjective",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/you/young/young_1_gb_1.mp3",
+    "phonetic_text": "/jʌŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/you/young/young__us_1.mp3",
+    "phonetic_am_text": "/jʌŋ/",
+    "senses": [
+      {
+        "definition": "having lived or existed for only a short time; not fully developed",
+        "examples": [
+          "Young babies need to be wrapped up warmly.",
+          "a young country",
+          "Caterpillars eat the young leaves of this plant.",
+          "It's a young wine, not really up to drinking yet.",
+          "The night is still young (= it has only just started).",
+          "Small businesses, especially young ones, tend to operate on a tight budget."
+        ]
+      },
+      {
+        "definition": "not yet old; not as old as others",
+        "examples": [
+          "young people",
+          "They sent many young men and women off to war.",
+          "My son's thirteen but he's young for his age (= not as developed as other boys of the same age).",
+          "I'm too young to remember much about the 1990s.",
+          "They married young (= at an early age).",
+          "My mother died young.",
+          "She looks much younger than her 39 years.",
+          "I don't know how families with young children manage to cope.",
+          "a young girl/boy/adult/person",
+          "In his younger days he played rugby for Wales.",
+          "I am the youngest of four sisters.",
+          "talented young football players",
+          "I met the young Michelle Obama at Princeton.",
+          "Her grandchildren keep her young (= keep her feeling young)."
+        ]
+      },
+      {
+        "definition": "consisting of young people or young children; with a low average age",
+        "examples": [
+          "They have a young family.",
+          "a young audience",
+          "This cottage would be perfect for a couple with a young family."
+        ]
+      },
+      {
+        "definition": "suitable or appropriate for young people",
+        "examples": [
+          "young fashion",
+          "The clothes she wears are much too young for her."
+        ]
+      },
+      {
+        "definition": "used to show that you are angry or annoyed with a particular young person",
+        "examples": [
+          "I think you owe me an apology, young lady!"
+        ]
+      },
+      {
+        "definition": "used before or after a person’s name to show the difference between them and an older relative",
+        "examples": [
+          "the younger Kennedy",
+          "William Pitt the younger"
+        ]
+      },
+      {
+        "definition": "used to say that people seem to be doing something at a younger age than they used to, or that they seem younger because you are now older",
+        "examples": [
+          "The band's fans are getting younger.",
+          "Why do police officers seem to be getting younger?"
+        ]
+      },
+      {
+        "definition": "used when you are commenting that time is passing and that you are growing older",
+        "examples": [
+          "We need to start thinking about our retirement. We’re not getting any younger, you know."
+        ]
+      },
+      {
+        "definition": "used to describe a young person who acts in a more sensible way than you would expect for a person of their age",
+        "examples": []
+      },
+      {
+        "definition": "thinking and behaving like a young person even when you are old",
+        "examples": [
+          "My father is 76 but he’s still young at heart.",
+          "He's over 70, but he's young at heart."
+        ]
+      },
+      {
+        "definition": "young people should enjoy themselves as much as possible, because they will have to work and worry later in their lives",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "young",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/you/young/young_1_gb_1.mp3",
+    "phonetic_text": "/jʌŋ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/you/young/young__us_1.mp3",
+    "phonetic_am_text": "/jʌŋ/",
+    "senses": [
+      {
+        "definition": "young people considered as a group",
+        "examples": [
+          "It's a movie that will appeal to the young.",
+          "It's a book for young and old alike."
+        ]
+      },
+      {
+        "definition": "young animals of a particular type or that belong to a particular mother",
+        "examples": [
+          "a mother bird feeding her young",
+          "Young in the nest may compete for food."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "youngster",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/you/young/youngster__gb_1.mp3",
+    "phonetic_text": "/ˈjʌŋstə(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/you/young/youngster__us_1.mp3",
+    "phonetic_am_text": "/ˈjʌŋstər/",
+    "senses": [
+      {
+        "definition": "a young person or a child",
+        "examples": [
+          "The camp is for youngsters aged 8 to 14."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "your",
+    "pos": "determiner",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/you/your_/your__gb_1.mp3",
+    "phonetic_text": "/jɔː(r)/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/you/your_/your__us_3_rr.mp3",
+    "phonetic_am_text": "/jʊr/",
+    "senses": [
+      {
+        "definition": "of or belonging to the person or people being spoken or written to",
+        "examples": [
+          "I like your dress.",
+          "Excuse me, is this your seat?",
+          "The bank is on your right."
+        ]
+      },
+      {
+        "definition": "of or belonging to people in general",
+        "examples": [
+          "Dentists advise you to have your teeth checked every six months.",
+          "In Japan you are taught great respect for your elders."
+        ]
+      },
+      {
+        "definition": "used to show that somebody/something is well known or often talked about",
+        "examples": [
+          "This is your typical English pub.",
+          "You and your bright ideas!"
+        ]
+      },
+      {
+        "definition": "used in some titles, especially those of royal people",
+        "examples": [
+          "Your Majesty",
+          "Your Excellency"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "yours",
+    "pos": "pronoun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/you/yours/yours__gb_1.mp3",
+    "phonetic_text": "/jɔːz/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/you/yours/yours__us_2_rr.mp3",
+    "phonetic_am_text": "/jərz/",
+    "senses": [
+      {
+        "definition": "of or belonging to you",
+        "examples": [
+          "Is that book yours?",
+          "Is she a friend of yours?",
+          "My hair is very fine. Yours is much thicker."
+        ]
+      },
+      {
+        "definition": "used at the end of a letter before signing your name",
+        "examples": [
+          "Yours sincerely/faithfully",
+          "Sincerely Yours",
+          "Yours Truly"
+        ]
+      },
+      {
+        "definition": "your home",
+        "examples": [
+          "Let's go back to yours after the show."
+        ]
+      },
+      {
+        "definition": "you, your family and your close friends",
+        "examples": [
+          "I wish you and yours all the best for the year ahead!"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "yourself",
+    "pos": "pronoun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/you/yours/yourself__gb_1.mp3",
+    "phonetic_text": "/jɔːˈself/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/you/yours/yourself__us_1.mp3",
+    "phonetic_am_text": "/jɔːrˈself/",
+    "senses": [
+      {
+        "definition": "used when the person or people being spoken to both cause and are affected by an action",
+        "examples": [
+          "Have you hurt yourself?",
+          "You don't seem quite yourself today (= you do not seem well or do not seem as happy as usual).",
+          "Enjoy yourselves!"
+        ]
+      },
+      {
+        "definition": "used to emphasize the fact that the person who is being spoken to is doing something",
+        "examples": [
+          "Do it yourself—I don't have time.",
+          "You can try it out for yourselves.",
+          "You yourself are one of the chief offenders."
+        ]
+      },
+      {
+        "definition": "used instead of ‘you’ in order to sound polite or formal (although some people do not consider this use to be correct)",
+        "examples": [
+          "We sell a lot of these to people like yourself.",
+          "‘And yourself,’ he replied, ‘How are you?’"
+        ]
+      },
+      {
+        "definition": "to act naturally",
+        "examples": [
+          "Don't act sophisticated—just be yourself."
+        ]
+      },
+      {
+        "definition": "alone; without anyone else",
+        "examples": [
+          "How long were you by yourself in the house?"
+        ]
+      },
+      {
+        "definition": "without help",
+        "examples": [
+          "Are you sure you did this exercise by yourself?"
+        ]
+      },
+      {
+        "definition": "for only you to have or use; not shared",
+        "examples": [
+          "I'm going to be away next week so you'll have the office to yourself."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "youth",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/y/you/youth/youth__gb_1.mp3",
+    "phonetic_text": "/juːθ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/you/youth/youth__us_1.mp3",
+    "phonetic_am_text": "/juːθ/",
+    "senses": [
+      {
+        "definition": "the time of life when a person is young, especially the time before a child becomes an adult",
+        "examples": [
+          "He had been a talented musician in his youth.",
+          "She regrets that she spent her youth travelling and not studying.",
+          "to relive/recapture your youth",
+          "He joked that being good at cards was the sign of a misspent youth (= having wasted his time when he was young)."
+        ]
+      },
+      {
+        "definition": "the quality or state of being young",
+        "examples": [
+          "She brings to the job a rare combination of youth and experience.",
+          "His youth gives him an advantage over the other runners."
+        ]
+      },
+      {
+        "definition": "young people considered as a group",
+        "examples": [
+          "the nation’s youth",
+          "Many people think the youth of today are not taught proper standards of behaviour.",
+          "training for unemployed youth",
+          "an increase in youth unemployment",
+          "contemporary youth culture",
+          "a youth worker (= somebody who works with young people)",
+          "Youth and adults tend to see things very differently."
+        ]
+      },
+      {
+        "definition": "a young man",
+        "examples": [
+          "The fight was started by a gang of youths."
+        ]
+      }
+    ]
+  }
+]

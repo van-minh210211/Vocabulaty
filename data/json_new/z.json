@@ -1,0 +1,86 @@
+[
+  {
+    "word": "zero",
+    "pos": "number",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/z/zer/zero_/zero__gb_1.mp3",
+    "phonetic_text": "/ˈzɪərəʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/z/zer/zero_/zero__us_1_rr.mp3",
+    "phonetic_am_text": "/ˈzɪrəʊ/",
+    "senses": [
+      {
+        "definition": "0",
+        "examples": [
+          "Five, four, three, two, one, zero… We have lift-off."
+        ]
+      },
+      {
+        "definition": "a temperature, pressure, etc. that is equal to zero on a scale",
+        "examples": [
+          "It was ten degrees below zero last night (= −10°C).",
+          "The thermometer had fallen to zero."
+        ]
+      },
+      {
+        "definition": "the lowest possible amount or level; nothing at all",
+        "examples": [
+          "I rated my chances as zero.",
+          "zero inflation"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zone",
+    "pos": "noun",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/z/zon/zone_/zone__gb_1.mp3",
+    "phonetic_text": "/zəʊn/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/z/zon/zone_/zone__us_1.mp3",
+    "phonetic_am_text": "/zəʊn/",
+    "senses": [
+      {
+        "definition": "an area or a region with a particular feature or use",
+        "examples": [
+          "a war/combat/demilitarized/exclusion zone",
+          "a danger zone",
+          "a pedestrian zone (= where vehicles may not go)",
+          "They have called for a 100-mile buffer zone (= protected area) around the island to protect the seals.",
+          "an earthquake zone"
+        ]
+      },
+      {
+        "definition": "one of the areas that a larger area is divided into for the purpose of organization",
+        "examples": [
+          "postal charges to countries in zone 2"
+        ]
+      },
+      {
+        "definition": "an area or a part of an object, especially one that is different from everything that is around it",
+        "examples": [
+          "When the needle enters the red zone the engine is too hot.",
+          "the erogenous zones of the body"
+        ]
+      },
+      {
+        "definition": "one of the parts that the earth’s surface is divided into by imaginary lines that are parallel to the equator",
+        "examples": [
+          "the northern/southern temperate zone"
+        ]
+      },
+      {
+        "definition": "in a state in which you feel confident and are performing at your best",
+        "examples": [
+          "When I'm in the zone, writing is the most satisfying thing in the world."
+        ]
+      },
+      {
+        "definition": "a state in which things are strange, mysterious or secret; a state that exists on the dividing line between two things",
+        "examples": [
+          "the twilight world of the occult",
+          "The dissidents lived in a twilight world of hushed voices and secret meetings.",
+          "the twilight zone between living and merely existing",
+          "They lived in the twilight zone on the fringes of society."
+        ]
+      }
+    ]
+  }
+]
