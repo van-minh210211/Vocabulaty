@@ -13,28 +13,27 @@ class VocabulatyScreen extends StatefulWidget {
 }
 
 class _VocabulatyScreenState extends State<VocabulatyScreen> {
-  late VocabulatyCubit listbook;
-  late AudioCubit audio;
-  late String url;
+  late VocabulatyCubit vocabulatyCubit;
 
   @override
   void initState() {
     super.initState();
-    listbook = VocabulatyCubit(Data());
-    audio = AudioCubit();
-    audio.loadAudio(url);
-    listbook.book();
+    vocabulatyCubit = VocabulatyCubit(Data());
+    vocabulatyCubit.book();
   }
 
   @override
   Widget build(BuildContext context) {
     return MultiBlocProvider(
       providers: [
-        BlocProvider<VocabulatyCubit>(create: (context) => listbook),
-        BlocProvider<AudioCubit>(create: (context) => audio),
+        BlocProvider<VocabulatyCubit>(create: (context) => vocabulatyCubit),
+        BlocProvider<AudioCubit>(create: (context) => AudioCubit()),
       ],
       child: Scaffold(
-        appBar: AppBar(title: const Text("Vocabulary Dictionary")),
+        appBar: AppBar(
+          title: const Text("Oxford Dictionary"),
+          centerTitle: true,
+        ),
         body: BlocBuilder<VocabulatyCubit, VocabulatyState>(
           builder: (context, state) {
             if (state is VocabulatyLoading) {
@@ -46,15 +45,11 @@ class _VocabulatyScreenState extends State<VocabulatyScreen> {
                 itemBuilder: (context, index) {
                   final wordData = state.words[index];
                   return Padding(
-                    padding: const EdgeInsets.symmetric(
-                      horizontal: 16.0,
-                      vertical: 8.0,
-                    ),
+                    padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
                     child: Container(
                       padding: const EdgeInsets.all(16),
                       decoration: BoxDecoration(
                         color: Colors.white,
-                        border: Border.all(color: Colors.blue.shade100),
                         borderRadius: BorderRadius.circular(12),
                         boxShadow: [
                           BoxShadow(
@@ -96,41 +91,53 @@ class _VocabulatyScreenState extends State<VocabulatyScreen> {
                                   ],
                                 ),
                               ),
-                              const Icon(
-                                Icons.bookmark_border,
-                                color: Colors.blue,
-                              ),
+                              const Icon(Icons.bookmark_border, color: Colors.blue),
                             ],
                           ),
                           const SizedBox(height: 12),
 
-                          // Phonetics
+                          // Phonetics with Audio interaction
                           BlocBuilder<AudioCubit, AudioState>(
-
-                            builder: (context, state) {
+                            builder: (audioContext, audioState) {
                               return Row(
                                 children: [
-                                  if (wordData.phoneticText != null &&
-                                      wordData.phoneticText!.isNotEmpty) ...[
-                                    const Icon(
-                                      Icons.volume_up,
-                                      color: Colors.blue,
-                                      size: 18,
+                                  // UK Audio Button
+                                  if (wordData.phonetic != null && wordData.phonetic!.isNotEmpty)
+                                    InkWell(
+                                      onTap: () => audioContext.read<AudioCubit>().playAudio(wordData.phonetic),
+                                      child: Row(
+                                        children: [
+                                          Icon(
+                                            (audioState is AudioLoading && audioState.url == wordData.phonetic)
+                                                ? Icons.hourglass_top
+                                                : Icons.volume_up,
+                                            color: Colors.blue,
+                                            size: 24,
+                                          ),
+                                          const SizedBox(width: 4),
+                                          Text("UK: ${wordData.phoneticText ?? ''}"),
+                                        ],
+                                      ),
                                     ),
-                                    const SizedBox(width: 4),
-                                    Text("UK: ${wordData.phoneticText}"),
-                                    const SizedBox(width: 16),
-                                  ],
-                                  if (wordData.phoneticAmText != null &&
-                                      wordData.phoneticAmText!.isNotEmpty) ...[
-                                    const Icon(
-                                      Icons.volume_up,
-                                      color: Colors.red,
-                                      size: 18,
+                                  const SizedBox(width: 16),
+                                  // US Audio Button
+                                  if (wordData.phoneticAm != null && wordData.phoneticAm!.isNotEmpty)
+                                    InkWell(
+                                      onTap: () => audioContext.read<AudioCubit>().playAudio(wordData.phoneticAm),
+                                      child: Row(
+                                        children: [
+                                          Icon(
+                                            (audioState is AudioLoading && audioState.url == wordData.phoneticAm)
+                                                ? Icons.hourglass_top
+                                                : Icons.volume_up,
+                                            color: Colors.red,
+                                            size: 24,
+                                          ),
+                                          const SizedBox(width: 4),
+                                          Text("US: ${wordData.phoneticAmText ?? ''}"),
+                                        ],
+                                      ),
                                     ),
-                                    const SizedBox(width: 4),
-                                    Text("US: ${wordData.phoneticAmText}"),
-                                  ],
                                 ],
                               );
                             },
@@ -141,26 +148,44 @@ class _VocabulatyScreenState extends State<VocabulatyScreen> {
                             child: Divider(),
                           ),
 
-                          // Senses (Definitions and Examples)
-                          Padding(
-                            padding: const EdgeInsets.only(bottom: 16.0),
-                            child: Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
-                                // Definition
-                                if (wordData.senses.isNotEmpty)
-                                  Text(
-                                    wordData.senses[0].definition ?? "",
-                                    style: const TextStyle(
-                                      fontSize: 16,
-                                      fontWeight: FontWeight.w500,
-                                      height: 1.4,
+                          // Senses (Full list of Definitions and Examples)
+                          Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: (wordData.senses ?? []).map<Widget>((sense) {
+                              return Padding(
+                                padding: const EdgeInsets.only(bottom: 12.0),
+                                child: Column(
+                                  crossAxisAlignment: CrossAxisAlignment.start,
+                                  children: [
+                                    Text(
+                                      "• ${sense.definition ?? ""}",
+                                      style: const TextStyle(
+                                        fontSize: 16,
+                                        fontWeight: FontWeight.w500,
+                                        height: 1.4,
+                                      ),
                                     ),
-                                  ),
-
-                                // Examples
-                              ],
-                            ),
+                                    if (sense.examples != null && sense.examples!.isNotEmpty)
+                                      Padding(
+                                        padding: const EdgeInsets.only(left: 18.0, top: 4.0),
+                                        child: Column(
+                                          crossAxisAlignment: CrossAxisAlignment.start,
+                                          children: sense.examples!.map<Widget>((ex) {
+                                            return Text(
+                                              "- $ex",
+                                              style: TextStyle(
+                                                fontSize: 14,
+                                                fontStyle: FontStyle.italic,
+                                                color: Colors.grey.shade700,
+                                              ),
+                                            );
+                                          }).toList(),
+                                        ),
+                                      ),
+                                  ],
+                                ),
+                              );
+                            }).toList(),
                           ),
                         ],
                       ),
@@ -172,7 +197,7 @@ class _VocabulatyScreenState extends State<VocabulatyScreen> {
             if (state is VocabulatyError) {
               return Center(child: Text("Lỗi: ${state.message}"));
             }
-            return const Center(child: Text("Chưa có dữ liệu"));
+            return const Center(child: Text("Đang tải dữ liệu..."));
           },
         ),
       ),

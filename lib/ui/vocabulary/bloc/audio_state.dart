@@ -1,18 +1,30 @@
 part of 'audio_cubit.dart';
 
-
 abstract class AudioState extends Equatable {
   const AudioState();
-
   @override
-  List<Object> get props => [];
+  List<Object?> get props => [];
 }
-final class AudioInitial extends AudioState {}
-final class AudioLoading extends AudioState {}
-final class AudioLoaded extends AudioState{
-  final String url;
-  AudioLoaded({required this.url});
-  @override
-  List<Object> get props => [url];
 
+class AudioInitial extends AudioState {}
+
+class AudioLoading extends AudioState {
+  final String url;
+  const AudioLoading(this.url);
+  @override
+  List<Object?> get props => [url];
+}
+
+class AudioPlaying extends AudioState {
+  final String url;
+  const AudioPlaying(this.url);
+  @override
+  List<Object?> get props => [url];
+}
+
+class AudioError extends AudioState {
+  final String message;
+  const AudioError(this.message);
+  @override
+  List<Object?> get props => [message];
 }
